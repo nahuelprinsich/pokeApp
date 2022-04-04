@@ -61,8 +61,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-around'
     },
     typeCard: {
-        backgroundColor: '#ed1b24', 
-        borderWidth: 0.5, 
+        backgroundColor: '#ed1b24',
         borderRadius: 20, 
         paddingHorizontal: 10,
         paddingVertical: 5
